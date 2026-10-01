@@ -11,6 +11,6 @@ Tools: Dust, Gemini Gems, Zapier, Slack, Gmail, Excel, Confluence, Python.
 | [Monthly Lunch Mixer](lunch-mixer/README.md) | Office management / all teams | Python | Builds lunch groups so colleagues meet new people |
 
 
-> These projects represent real, delivered internal automation initiatives implemented during my time at ManoMano Colibri SaaS Aug 2025- Dec 2025.
+> These projects represent real, delivered internal automation initiatives implemented during my time at ManoMano Colibri SaaS Aug. 2025 - Dec. 2025.
 > To respect confidentiality and intellectual property, all proprietary business logic, schemas, and credentials have been strictly anonymised, recreated, or demonstrated using synthetic sample datasets and public-safe workflows.
 >
