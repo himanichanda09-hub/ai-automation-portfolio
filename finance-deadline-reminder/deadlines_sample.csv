@@ -1,0 +1,7 @@
+task,deadline,owner,slack_id,email,channel_pref,status
+VAT declaration,2026-10-02,Alice Demo,U01ALICE,alice@example.com,slack,Open
+Supplier invoices batch payment,2026-10-01,Bruno Demo,U02BRUNO,bruno@example.com,gmail,Open
+Month-end close,2026-09-30,Chloe Demo,U03CHLOE,chloe@example.com,slack,Open
+Expense reports validation,2026-09-28,David Demo,U04DAVID,david@example.com,slack,Open
+Budget forecast Q4,2026-10-15,Emma Demo,U05EMMA,emma@example.com,slack,Open
+Payroll export,2026-10-01,Farid Demo,U06FARID,farid@example.com,slack,Done

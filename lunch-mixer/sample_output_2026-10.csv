@@ -1,0 +1,26 @@
+month,group_id,name,email,team,new_joiner
+2026-10,G1,Emma Demo,emma@example.com,HR,no
+2026-10,G1,Bruno Demo,bruno@example.com,Product,no
+2026-10,G1,Karim Demo,karim@example.com,Finance,yes
+2026-10,G1,Hugo Demo,hugo@example.com,Marketing,no
+2026-10,G1,Xavier Demo,xavier@example.com,Business,no
+2026-10,G2,Uma Demo,uma@example.com,Operations,yes
+2026-10,G2,Marc Demo,marc@example.com,Tech,no
+2026-10,G2,Paula Demo,paula@example.com,Product,yes
+2026-10,G2,Sami Demo,sami@example.com,HR,no
+2026-10,G2,Rita Demo,rita@example.com,Finance,no
+2026-10,G3,Gina Demo,gina@example.com,Operations,no
+2026-10,G3,Wendy Demo,wendy@example.com,Product,no
+2026-10,G3,Victor Demo,victor@example.com,Marketing,no
+2026-10,G3,Quentin Demo,quentin@example.com,Business,no
+2026-10,G3,Lea Demo,lea@example.com,HR,no
+2026-10,G4,Yara Demo,yara@example.com,Finance,no
+2026-10,G4,Chloe Demo,chloe@example.com,Business,no
+2026-10,G4,Tina Demo,tina@example.com,Tech,no
+2026-10,G4,Ines Demo,ines@example.com,Product,no
+2026-10,G4,Farid Demo,farid@example.com,Tech,yes
+2026-10,G5,Nina Demo,nina@example.com,Operations,no
+2026-10,G5,Alice Demo,alice@example.com,Marketing,yes
+2026-10,G5,Jules Demo,jules@example.com,Business,no
+2026-10,G5,David Demo,david@example.com,Finance,no
+2026-10,G5,Omar Demo,omar@example.com,Marketing,no
