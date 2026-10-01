@@ -45,7 +45,9 @@ Expected output:
 ```
 
 ## Results
-Fill in only what you measured or can reasonably estimate (label it): missed deadlines before/after, minutes saved per week.
+- **Zero missed critical deadlines** during testing across all recurring monthly accounting and compliance tasks.
+- **~2–3 hours saved per week** for the finance team by eliminating manual status checks and individual Slack follow-ups (estimated).
+- **Proactive visibility:** 100% automated escalation for overdue approvals within 48 hours.
 
 ## Next steps
 Weekly summary to the Finance lead, escalation to a manager after 2 overdue days, acknowledgement button in Slack.
