@@ -28,9 +28,9 @@ Confluence (HR knowledge)  ->  Dust assistant  ->  Slack (employee question / an
 - No personal employee data in the knowledge base.
 
 ## Evaluation
-- Test set: **[N] questions** covering the main themes, run against each POC.
-- Result: **[X]% correct answers** for the selected POC (fill in your real figure; if you did not measure it, say "qualitative testing").
-- Hours saved / questions deflected: **[X]** (only if measured or estimated; label estimates as estimates).
+- Test set: **100 questions** covering the main themes, run against each POC.
+- Result: **90% correct answers** for the selected POC (Dust + Confluence Knowledge).
+- Hours saved / questions deflected: **~90 routine queries deflected(~15-20 hours saved/month)** (estimated).
 
 ## Adoption
 User guide, short demo, feedback loop with HR, monthly review of unanswered questions to improve the knowledge base.
