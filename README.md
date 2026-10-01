@@ -10,8 +10,7 @@ Tools: Dust, Gemini Gems, Zapier, Slack, Gmail, Excel, Confluence, Python.
 | [Use Case Catalogue (600)](use-case-catalogue/README.md) | All functions | Dust, Gemini Gem, Zapier, n8n | Structured list of automation opportunities, full vs half automation |
 | [Monthly Lunch Mixer](lunch-mixer/README.md) | Office management / all teams | Python | Builds lunch groups so colleagues meet new people |
 
-> The HR assistant, finance reminder and lunch mixer document work done during my internship at ManoMano Colibri. They are presented in general terms, with no confidential company information. Code and sample files use fictional data and recreate the approach.
->
-> These projects represent real, delivered internal automation initiatives implemented during my time at ManoMano. 
+
+> These projects represent real, delivered internal automation initiatives implemented during my time at ManoMano Colibri SaaS Aug 2025- Dec 2025.
 > To respect confidentiality and intellectual property, all proprietary business logic, schemas, and credentials have been strictly anonymised, recreated, or demonstrated using synthetic sample datasets and public-safe workflows.
 >
