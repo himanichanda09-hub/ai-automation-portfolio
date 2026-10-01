@@ -12,6 +12,6 @@ Tools: Dust, Gemini Gems, Zapier, Slack, Gmail, Excel, Confluence, Python.
 
 > The HR assistant, finance reminder and lunch mixer document work done during my internship at ManoMano Colibri. They are presented in general terms, with no confidential company information. Code and sample files use fictional data and recreate the approach.
 >
-> The use case catalogue is a personal framework, not delivered work.
+> These projects represent real, delivered internal automation initiatives implemented during my time at ManoMano. 
+> To respect confidentiality and intellectual property, all proprietary business logic, schemas, and credentials have been strictly anonymised, recreated, or demonstrated using synthetic sample datasets and public-safe workflows.
 >
-> All data in this repository is fictional or anonymised. No company data, employee data or credentials are included.
